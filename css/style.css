@@ -32,6 +32,15 @@ ul,label{
 body a:hover{
 	text-decoration:none;
 }
+/*--home-page-welcome--*/
+.welcome1 h1{
+	color:#00CCFF;
+	font-size:3.0em;
+	font-weight: 500;
+        text-align: center;
+        text-decoration: underline;
+}
+/*--end-home-page-welcome--*/
 /*--Header-Part-Starts-Here--*/
 .header {
 	background: rgb(156, 158, 159);
@@ -299,15 +308,7 @@ ul.nav.navbar-nav {
 	font-family: 'Play-Regular';
 }
 /*--provide-end--*/
-/*--home-page-welcome--*/
-.welcome1 h1{
-	color:#00CCFF;
-	font-size:3.0em;
-	font-weight: 500;
-        text-align: center;
-        text-decoration: underline;
-}
-/*--end-home-page-welcome--*/
+
 /*--welcome-starts--*/
 .welcome {
 	padding: 5em 0px;
