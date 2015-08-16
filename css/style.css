@@ -299,15 +299,18 @@ ul.nav.navbar-nav {
 	font-family: 'Play-Regular';
 }
 /*--provide-end--*/
-/*--welcome-starts--*/
-.welcome {
-	padding: 5em 0px;
-}
+/*--home-page-welcome--*/
 .welcome1 h1{
 	color:#6600CC;
 	font-size:3.0em;
 	font-weight: 800;
 }
+/*--end-home-page-welcome--*/
+/*--welcome-starts--*/
+.welcome {
+	padding: 5em 0px;
+}
+
 .welcome-left h3{
 	color: #EF6286;
 	font-size: 2.1em;
