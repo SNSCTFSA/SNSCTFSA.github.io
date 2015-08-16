@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 @font-face {
     font-family: 'Play-Regular';
     src:url(../fonts/Play-Regular.ttf) format('truetype');
@@ -307,6 +302,11 @@ ul.nav.navbar-nav {
 /*--welcome-starts--*/
 .welcome {
 	padding: 5em 0px;
+}
+.welcome1 h1{
+	color:#6600CC;
+	font-size:3.0em;
+	font-weight: 800;
 }
 .welcome-left h3{
 	color: #EF6286;
