@@ -167,7 +167,8 @@ ul.nav.navbar-nav {
 /*--header-ends--*/
 /*--banner-starts--*/
 .banner{
-	background:url(../images/banner1.jpg) no-repeat;
+	background:url(../images/banner1.jpg) ;
+	background-repeat: repeat-x;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
