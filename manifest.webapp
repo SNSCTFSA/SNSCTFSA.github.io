@@ -1,0 +1,17 @@
+{
+  “name”: “SNSCT MOZILLIANS ”,
+  “description”: “SNSCT FIREFOX CLUB APPLICATION”,
+  “launch_path”: “/index.html”,
+  “icons”: {
+    “512”: “/images/icons512.png”,
+“256”: “/images/icons256.png”,
+“64”: “/images/icons64.png”,
+“128”: “/images/icons128.png”
+  },
+  “version”: “1.1”,
+  “developer”: {
+    “name”: “Paarttipaabhalaji”,
+    “url”: “paarttipaa.blogspot.in”
+  },
+  “default_locale”: “en”
+}
