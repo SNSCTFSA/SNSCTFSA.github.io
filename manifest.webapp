@@ -7,9 +7,11 @@
           “64”: “/images/icons64.png”,
           “128”: “/images/icons128.png”
   },
-   "type":"privlieged",
+   "version":"1.1"
   “developer”: {
-    “name”: “Paarttipaabhalaji”
-  }
+    “name”: “Paarttipaabhalaji”,
+    "url":"paarttipaa.blogspot.in"
+  },
+"default_locate":"en"
 }
 
