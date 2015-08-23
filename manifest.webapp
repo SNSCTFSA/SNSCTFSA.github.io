@@ -1,17 +1,18 @@
 {
   “name”: “SNSCT MOZILLIANS ”,
-  “description”: “This Application was created by SNSCT Mozillians to develop our contribution work.”,
+  “description”: “This Application was created by SNSCT Mozillians to develop our contribution work”,
   “launch_path”: “/index.html”,
   “icons”: {
    
-          “64”: “/images/icons64.png”,
-          “128”: “/images/icons128.png”
+          “64”: “/icons/icons64.png”,
+          “128”: “/icons/icons128.png”
   },
-   "version":"1.1"
+   "version":"1.1",
+   "permissions":{}
   “developer”: {
     “name”: “Paarttipaabhalaji”,
     "url":"paarttipaa.blogspot.in"
   },
-"default_locate":"en"
-}
+
+},
 
