@@ -1,18 +1,18 @@
 {
-  “name”: “SNSCT MOZILLIANS ”,
-  “description”: “This Application was created by SNSCT Mozillians to develop our contribution work”,
-  “launch_path”: “/index.html”,
-  “icons”: {
+  â€œnameâ€: â€œSNSCT MOZILLIANS â€,
+  â€œdescriptionâ€: â€œThis Application was created by SNSCT Mozillians to develop our contribution workâ€,
+  â€œlaunch_pathâ€: â€œ/index.htmlâ€,
+  â€œiconsâ€: {
    
-          “64”: “/icons/icons64.png”,
-          “128”: “/icons/icons128.png”
+          â€œ64â€: â€œ/icons/icons64.pngâ€,
+          â€œ128â€: â€œ/icons/icons128.pngâ€
   },
    
    
-  “developer”: {
-    “name”: “Paarttipaabhalaji”,
+  â€œdeveloperâ€: {
+    â€œnameâ€: â€œPaarttipaabhalajiâ€,
     "url":"paarttipaa.blogspot.in"
-  },
+  }
 
 }
 
