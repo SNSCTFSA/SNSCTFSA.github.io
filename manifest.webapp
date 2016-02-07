@@ -1,18 +1,20 @@
 {
-  “name”: “SNSCT MOZILLIANS ”,
-  “description”: “This Application was created by SNSCT Mozillians to develop our contribution work”,
-  “launch_path”: “/index.html”,
-  “icons”: {
+  "name":"SNS FIREFOX",
+  "description": "This Application was created by SNSCT Mozillians to develop our contribution work",
+  "launch_path": "/index.html",
+  "icons": {
    
-          “64”: “/icons/icons64.png”,
-          “128”: “/icons/icons128.png”
+          "64": "/icons/icons64.png",
+          "128": "/icons/icons128.png",
+          "512": "/icons/icons512.png",
+          "256": "/icons/icons256.png"
+      
   },
    
-   
-  “developer”: {
-    “name”: “Paarttipaabhalaji”,
-    "url":"paarttipaa.blogspot.in"
-  },
-
+  
+    "developer": {
+    "name": "Paarttipaabhalaji",
+    "url":"http://paarttipaa.blogspot.in"
+  }
 }
 
