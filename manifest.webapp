@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name":"SNS FIREFOX",
   "description": "This Application was created by SNSCT Mozillians to develop our contribution work",
   "launch_path": "/index.html",
@@ -16,5 +17,22 @@
     "name": "Paarttipaabhalaji",
     "url":"http://paarttipaa.blogspot.in"
   }
+=======
+  “name”: “SNSCT MOZILLIANS ”,
+  “description”: “This Application was created by SNSCT Mozillians to develop our contribution work”,
+  “launch_path”: “/index.html”,
+  “icons”: {
+   
+          “64”: “/icons/icons64.png”,
+          “128”: “/icons/icons128.png”
+  },
+   
+   
+  “developer”: {
+    “name”: “Paarttipaabhalaji”,
+    "url":"paarttipaa.blogspot.in"
+  }
+
+>>>>>>> ad9faf118dd83b2c0ded067c8e1e61b5b598ab23
 }
 
